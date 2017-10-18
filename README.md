@@ -1,5 +1,5 @@
 # To do projects Machine Learning
-A to do list for all machine learning tasks that I wanna tackle in future
+A to do list for all machine learning tasks that I wanna tackle in future  
 https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
 
 
