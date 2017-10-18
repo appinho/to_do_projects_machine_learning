@@ -11,14 +11,7 @@ Use a tree-like graph or model of decisions
 Minimum number of yes/no questions to assess the probability of making a correct decision
 
 # 2 Naive Bayes Classification
-P(A|B) posterior probability
-=
-P(B|A) likelihood
-*
-P(A) prior probability
-/
-P(B) predictor prior probability
-
+P(A|B) posterior probability = P(B|A) likelihood * P(A) prior probability / P(B) predictor prior probability
 Examples: Spam Classifier, Classify news articles, Face Recognition
 
 # 3 Ordinary Least Squares Regression
