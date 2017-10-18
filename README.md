@@ -1,5 +1,7 @@
 # To do projects Machine Learning
 A to do list for all machine learning tasks that I wanna tackle in future
+https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
+
 
 Machine Learning can be subdivided into three categories:
 - Supervised learning (labeled training dataset to predict other instances)
@@ -42,6 +44,7 @@ Grouping a set of objects that are more similar to each other than others.
 - Probabilistic
 - Dimensional Reduction
 - Neural networks/ Deep Learning
+http://scikit-learn.org/stable/modules/clustering.html
 
 # 8 Principal Component Analysis
 Statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components  
@@ -55,6 +58,3 @@ PCA is actually a simple application of SVD
 Reveals hidden factors that underlie sets of random variables,measurements, or signals.  
 Defines a generative model for the observed multivariate data.  
 More powerful than PCA
-
-# Source:
-https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
