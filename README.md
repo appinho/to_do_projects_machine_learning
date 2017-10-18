@@ -43,7 +43,7 @@ Grouping a set of objects that are more similar to each other than others.
 - Density-based (DBSCAN)
 - Probabilistic
 - Dimensional Reduction
-- Neural networks/ Deep Learning
+- Neural networks/ Deep Learning  
 http://scikit-learn.org/stable/modules/clustering.html
 
 # 8 Principal Component Analysis
